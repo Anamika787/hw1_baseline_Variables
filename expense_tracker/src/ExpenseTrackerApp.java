@@ -32,7 +32,6 @@ public class ExpenseTrackerApp {
 
       // Initialize view
       view.setVisible(true);
-
       try {
         if (validate.validateTransaction(amount, category) == true) {
           // Create transaction object
@@ -48,9 +47,6 @@ public class ExpenseTrackerApp {
         System.err.println("Error: " + ef.getMessage());
 
       }
-
-      // }
-
     });
 
   }

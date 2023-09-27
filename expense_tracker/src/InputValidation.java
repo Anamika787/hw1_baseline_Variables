@@ -1,3 +1,4 @@
+
 import java.text.SimpleDateFormat;
 import java.util.*;
 import java.util.Date;
@@ -22,10 +23,12 @@ public class InputValidation {
 
                 return true;
             }
+        } else {
+            throw new IllegalArgumentException("InValid Input. Please enter a valid input");
         }
-        return false;
-        // Both the integer and string are valid
 
+        // Both the integer and string are valid
+        return false;
     }
 
 }
