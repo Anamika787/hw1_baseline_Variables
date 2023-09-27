@@ -1,0 +1,78 @@
+commit b7adbad40ca30bbdf62ac5f174a72f66c78a71ef
+Author: Anamika Ghosh <anamikaghosh990@gmail.com>
+Date:   Wed Sep 27 19:38:01 2023 -0400
+
+    creating a pop up
+
+commit c589bc7ddd85a79f1ee9ab0b442ff9bd9487dd1b
+Author: Anamika Ghosh <anamikaghosh990@gmail.com>
+Date:   Wed Sep 27 19:35:27 2023 -0400
+
+    Try catch block changes , printing error in terminal
+
+commit 673a7ce245b92a95a33c3775989f1f8fbba70f2f
+Author: Anamika Ghosh <anamikaghosh990@gmail.com>
+Date:   Wed Sep 27 19:28:40 2023 -0400
+
+    keeping try and catch
+
+commit ff76439e46cc6ada20b83c9f34c0b7396a753123
+Author: Anamika Ghosh <anamikaghosh990@gmail.com>
+Date:   Wed Sep 27 19:25:26 2023 -0400
+
+    Category validation check
+
+commit 33195d219298f87d96d12747e09ba6cbb58e39af
+Author: Anamika Ghosh <anamikaghosh990@gmail.com>
+Date:   Wed Sep 27 19:11:32 2023 -0400
+
+    Amount Validation Added
+
+commit 609238f5b8fb31cbf00089d698570586e780f27d
+Author: Mahbuba Tasmin <tasmin153@gmail.com>
+Date:   Tue Sep 26 17:04:00 2023 -0400
+
+    Gitignore update
+
+commit 4aba3f306ce156c0a3995c72fae604e5c4dd4839
+Author: Mahbuba Tasmin <tasmin153@gmail.com>
+Date:   Thu Sep 21 16:16:51 2023 -0400
+
+    Readme Update
+
+commit e6b5eef3e2cf2bd38bd2482b633c8f670c56b3b9
+Author: Mahbuba Tasmin <tasmin153@gmail.com>
+Date:   Wed Sep 20 21:34:40 2023 -0400
+
+    Readme Update
+
+commit 8c41e8002d1ab37af47d259a2dd7f02033c69d72
+Merge: d3a5c14 34bd5aa
+Author: Mahbuba Tasmin <tasmin153@gmail.com>
+Date:   Wed Sep 20 21:32:44 2023 -0400
+
+    Merge branch 'main' of https://github.com/CS520-Fall2023/hw1_baseline
+
+commit d3a5c14b35628fc5ad47068443af4e5960043c39
+Author: Mahbuba Tasmin <tasmin153@gmail.com>
+Date:   Wed Sep 20 21:31:49 2023 -0400
+
+    Readme Update
+
+commit 34bd5aa0313f8c07c903f01e68ae0489f89e3d87
+Author: Mahbuba Tasmin <tasmin153@gmail.com>
+Date:   Mon Sep 18 10:44:46 2023 -0400
+
+    Readme Update
+
+commit 72141cc496980da67e34cc8676331c48e912ec41
+Author: Mahbuba Tasmin <tasmin153@gmail.com>
+Date:   Mon Sep 18 02:14:52 2023 -0400
+
+    HW1 file updates
+
+commit ed592ee28b697f1c2464703f0b53618bb653c017
+Author: Mahbuba Tasmin <tasmin153@gmail.com>
+Date:   Mon Sep 18 02:13:24 2023 -0400
+
+    Initial commit
