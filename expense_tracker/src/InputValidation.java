@@ -17,13 +17,14 @@ public class InputValidation {
         List<String> Categories = Arrays.asList("food", "other", "travel", "bills", "entertainment");
         // check if the amount is within the range
         if (amount > 0 && amount < 1000) {
+            // check if the categories are in the give list that is mentioned above
+            if (Categories.contains(category.toLowerCase())) {
 
-            return true;
-
-        } else {
-            return false;
-
+                return true;
+            }
         }
+        return false;
+        // Both the integer and string are valid
 
     }
 
