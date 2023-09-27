@@ -33,12 +33,20 @@ public class ExpenseTrackerApp {
       // Initialize view
       view.setVisible(true);
 
-      if (validate.validateTransaction(amount, category) == true) {
-        // Create transaction object
-        Transaction t = new Transaction(amount, category);
+      try {
+        if (validate.validateTransaction(amount, category) == true) {
+          // Create transaction object
+          Transaction t = new Transaction(amount, category);
 
-        // Call controller to add transaction
-        view.addTransaction(t);
+          // Call controller to add transaction
+          view.addTransaction(t);
+        }
+
+      }
+
+      catch (IllegalArgumentException ef) {
+        System.err.println("Error: " + ef.getMessage());
+
       }
 
       // }
