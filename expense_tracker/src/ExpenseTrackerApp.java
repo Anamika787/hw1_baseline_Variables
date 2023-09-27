@@ -44,7 +44,9 @@ public class ExpenseTrackerApp {
       }
 
       catch (IllegalArgumentException ef) {
-        System.err.println("Error: " + ef.getMessage());
+
+        JOptionPane.showMessageDialog(null, "An error occurred: " + ef.getMessage(), "Error",
+            JOptionPane.ERROR_MESSAGE);
 
       }
     });
